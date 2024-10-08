@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Creat1ve-shubh
 - 👀 I’m interested in working on projects that solve real pain points
 - 🌱 I’m currently learning Full Stack Dev
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to Intern
 - 📫 How to reach me - shubhshrivastavawork@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: error 404! not found :]
