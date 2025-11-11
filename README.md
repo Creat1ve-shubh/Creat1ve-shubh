@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Creat1ve-shubh
-- 🎓 I'm a Student and an aspiring developer and entrepreneur. (Optional: All opinions are my own.)
+- 🎓 I'm a Student and an aspiring developer and entrepreneur.
 - 🚀 I've been on an adventurous journey to learn rigorously. 
 - 💻 On the technical side, I am learning to build scalable and robust cross-platform systems.
 - 🎯 On the product side, I aim to build products that solve real world inefficiencies and provide a valid use case instead of just copy paste showpieces on CVs.
