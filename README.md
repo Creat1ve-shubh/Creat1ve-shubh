@@ -6,7 +6,6 @@
 - 🌱 Always looking for kickass internships and growth opportunities
 - 📫 How to reach me - shubhshrivastavawork@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: error 404! not found :]
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Python
