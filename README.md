@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Shubh (@Creat1ve-shubh)
+- 👋 Hi, I'm Shubh (@Creat1ve-shubh), actively building @mnsht-labs
 - 🎓 I'm a pre-final year Student and an aspiring developer and entrepreneur.
 - 🚀 I've been on an adventurous journey to learn rigorously, always trying to raise the bar! 
 - 💻 On the technical side, I am learning to build scalable and robust cross-platform systems.
