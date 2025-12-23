@@ -20,7 +20,8 @@
 
 >
 
-**Hi, I'm Shubh (@Creat1ve-shubh), actively building [@mnsht-labs](https://github.com/mnsht-labs).**  
+**Hi, I'm Shubh (@Creat1ve-shubh), actively building [@mnsht-labs](https://github.com/mnsht-labs) and contributing to [@NodeMonks](https://github.com/NodeMonks).** 
+
 I'm a pre-final year student and an aspiring developer and entrepreneur. I've been on an adventurous journey to learn rigorously, always trying to raise the bar!  
 
 On the technical side, I am learning to build **scalable and robust cross-platform systems** using the **MERN stack** with **Next.js** for web magic, **React Native** for mobile-first experiences, and diving deep into **Agentic AI**, **Gen AI**, **ML/DL**, **DSA**, **System Design**, and **DevOps** to craft intelligent, production-ready solutions.  
