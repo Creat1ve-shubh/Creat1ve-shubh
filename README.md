@@ -96,7 +96,10 @@ Proud to own the full stack—from DSA-optimized backends and distributed system
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Creat1ve-shubh&theme=radical" alt="GitHub Streak" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Creat1ve-shubh&theme=2077&utcOffset=8" alt="GitHub Streak" />
+  
+ 
   <img src="https://github.pumbas.net/api/contributions/Creat1ve-shubh" alt="Shubh's GitHub contributions" />
 </div
 
