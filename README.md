@@ -87,7 +87,7 @@ This stack isn't static—it's evolving with my curiosity, always product-first:
 
 ## **What I'm Building** 🚀
 
-- **@mnsht-labs**: Bootstrapping a micro-startup with AI-powered tools for creative ideation and prototyping—think agentic workflows that turn vague ideas into deployable code. [Check it out](https://github.com/mnsht-labs) and contribute!
+- **@mnsht-labs**: Bootstrapping a micro-startup with AI-powered tools for creative ideation and prototyping—think agentic workflows that turn vague ideas into deployable code. [Check it out](https://mnsht-labs-website.vercel.app/) and tell me what you think!
 - **@nodemonks**: contributing as a *founding engineer* to build the retail side SaaS [@PantryPal](https://nodemonks-pantrypal.onrender.com/login). and consumer side mobile app!
 - **AI Experiments**: Fine-tuning LLMs with LangChain for autonomous agents, and on-device inference in mobile apps.
 
