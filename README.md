@@ -18,17 +18,12 @@
 
 >
 
-**Hi, I'm Shubh (@Creat1ve-shubh), actively building [@mnsht-labs](https://github.com/mnsht-labs) and contributing to [@NodeMonks](https://github.com/NodeMonks).** 
+**Hi, I'm Shubh (@Creat1ve-shubh), YOUR UNFAIR ADVANTAGE, actively building [@mnsht-labs](https://github.com/mnsht-labs) and contributing to [@NodeMonks](https://github.com/NodeMonks).** 
 
-I'm a pre-final year student and an aspiring developer and entrepreneur. I've been on an adventurous journey to learn rigorously, always trying to raise the bar!  
 
-On the technical side, I am learning to build **scalable and robust cross-platform systems** using the **MERN stack** with **Next.js** for web magic, **React Native** for mobile-first experiences, and diving deep into **Agentic AI**, and **DevOps** to craft intelligent, production-ready solutions.  
-
-On the product side, I aim to build products that solve **real world inefficiencies** and provide a valid use case—instead of just copy-paste showpieces on CVs. Fueled by an **insatiable curiosity** and a **product owner's mindset**, I blend deep engineering with ruthless iteration, always asking *"How does this solve a real problem?"* and shipping features that **10x user engagement**.  
 
 🌱 *Always looking for kickass internships and growth opportunities.*  
 
-When I'm not coding, you'll find me dissecting open-source projects, contributing to discussions on system reliability, or sketching out the next AI-driven tool at *mnsht-labs* to streamline creative workflows. Let's connect if you're into collaborative problem-solving or just want to geek out over the latest in AI agents! 😄 *Pronouns: he/him*
 
 ---
 
