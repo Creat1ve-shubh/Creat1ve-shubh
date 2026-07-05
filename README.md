@@ -18,22 +18,12 @@
 
 >
 
-**Hi, I'm Shubh (@Creat1ve-shubh), YOUR UNFAIR ADVANTAGE, actively building [@mnsht-labs](https://github.com/mnsht-labs) and contributing to [@NodeMonks](https://github.com/NodeMonks).** 
+**Hi, I'm Shubh (@Creat1ve-shubh), YOUR UNFAIR ADVANTAGE** 
 
 
 
 🌱 *Always looking for kickass internships and growth opportunities.*  
 
-
----
-
-## **What I'm Building** 🚀
-
-- **@mnsht-labs**: Bootstrapping a micro-startup with AI-powered tools for creative ideation and prototyping—think agentic workflows that turn vague ideas into deployable code. [Check it out](https://mnsht-labs-website.vercel.app/) and tell me what you think!
-- **@nodemonks**: contributing as a *founding engineer* to build the retail side SaaS [@PantryPal](https://nodemonks-pantrypal.onrender.com/login). and consumer side mobile app!
-- **AI Experiments**: Fine-tuning LLMs with LangChain for autonomous agents, and on-device inference in mobile apps.
-
-Proud to own the full stack—from DSA-optimized backends and distributed systems to CI/CD pipelines that deploy without a hitch.
 
 ---
 
